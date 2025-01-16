@@ -2,7 +2,7 @@ spring:
   ai:
     ollama:
       embedding:
-        model: "llama3"
+        model: "llama3.2"
         options:
           temperature: 0.5
           top-p: 0.2
